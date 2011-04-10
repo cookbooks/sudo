@@ -83,6 +83,9 @@
       ],
       "redhat": [
 
+      ],
+      "amazon": [
+
       ]
     },
     "license": "Apache 2.0",
